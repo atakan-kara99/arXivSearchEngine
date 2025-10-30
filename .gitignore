@@ -7,3 +7,5 @@ gui/__pycache__/
 se/__pycache__/
 *.py[cod]
 *.pyc
+
+.idea/
