@@ -4,6 +4,11 @@
 
 arXivSearchEngine is an educational search engine built around a subset of the arXiv corpus. It combines a simple inverted-index based retrieval implementation (in the `se/` package) with a small Django GUI for querying and comparing results to an external Solr instance. The project includes index creation, posting list management, ranking, a snippet generator and evaluation utilities for comparing results against Solr.
 
+<p align="center" style="display:flex; justify-content:center; gap:24px; align-items:center;">
+  <img src="media/images/Ging_logo.svg" alt="Ging logo" width="400">
+  <img src="media/images/Boogle_logo.svg" alt="Boogle logo" width="400">
+</p>
+
 ## Key features
 
 - Create inverted indexes from a zipped JSON corpus (see `se/main.py`).
