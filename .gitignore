@@ -1,0 +1,9 @@
+*.zip
+se/*.txt
+venv
+denv
+
+gui/__pycache__/
+se/__pycache__/
+*.py[cod]
+*.pyc
